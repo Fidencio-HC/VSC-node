@@ -21,3 +21,6 @@ var server=http.createServer(function(request,response){
 
 server.listen(4000);
 console.log("running in 4000");
+
+
+/// clear teuiia... 
