@@ -8,3 +8,5 @@ function error(text){
 }
 
 module.exports(info, error);
+
+// este es un comentario....
